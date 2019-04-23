@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/poc-ts-react.iml" filepath="$PROJECT_DIR$/poc-ts-react.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gitflow.iml" filepath="$PROJECT_DIR$/gitflow.iml" />
     </modules>
   </component>
 </project>
