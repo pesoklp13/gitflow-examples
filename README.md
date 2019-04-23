@@ -4,6 +4,7 @@ packed inside project.
 ## Table of Contents
 
 - [Changes of gitgraph.js 1.1.0](#changes-of-gitgraph.js)
+- [Live example](#live-example)
 
 ### Changes of gitgraph.js
 
@@ -12,3 +13,7 @@ Current used version is 1.1.0 with modification. We are using
 instance from ref of 
 [Gitgraph](https://github.com/nicoespeon/gitgraph.js/blob/master/packages/gitgraph-react/src/Gitgraph.tsx) component
 directly from render function instead of setting up branches.
+
+### Live example
+
+As part of this project there is also live deployment of current project [gitflow-examples](https://gitflow-examples.herokuapp.com)
